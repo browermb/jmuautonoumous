@@ -17,3 +17,6 @@
 	path = JMU-Autonomous-Vehicle-Controller-Android
 	url = https://github.com/jmuautonomous/JMU-Autonomous-Vehicle-Controller-Android.git
 
+[submodule "sensor_repo"]
+	path = sensor_repo
+	url = https://github.com/jmuautonomous/sensor_repo.git
