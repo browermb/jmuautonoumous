@@ -10,3 +10,10 @@
 	path = server
 	url = https://github.com/browermb/server.git
 	branch = master
+[submodule "JMU-Autonomous-Vehicle-Controller-iOS"]
+	path = JMU-Autonomous-Vehicle-Controller-iOS
+	url = https://github.com/jmuautonomous/JMU-Autonomous-Vehicle-Controller-iOS.git
+[submodule "JMU-Autonomous-Vehicle-Controller-Android"]
+	path = JMU-Autonomous-Vehicle-Controller-Android
+	url = https://github.com/jmuautonomous/JMU-Autonomous-Vehicle-Controller-Android.git
+
