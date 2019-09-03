@@ -1,7 +1,3 @@
-[submodule "autonomous-navigation"]
-	path = autonomous-navigation
-	url = https://github.com/browermb/autonomous-navigation.git
-	branch = master
 [submodule "motors"]
 	path = motors
 	url = https://github.com/browermb/motors.git
