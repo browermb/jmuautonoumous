@@ -16,3 +16,6 @@
 [submodule "sensor_repo"]
 	path = sensor_repo
 	url = https://github.com/browermb/sensor_repo.git
+[submodule "autonomous-navigation"]
+	path = autonomous-navigation
+	url = https://github.com/browermb/autonomous-navigation.git
